@@ -1,0 +1,13 @@
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\netcoreapp3.1\ContaBancaria_Exception.exe
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\netcoreapp3.1\ContaBancaria_Exception.deps.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\netcoreapp3.1\ContaBancaria_Exception.runtimeconfig.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\netcoreapp3.1\ContaBancaria_Exception.runtimeconfig.dev.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\netcoreapp3.1\ContaBancaria_Exception.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\netcoreapp3.1\ContaBancaria_Exception.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.csprojAssemblyReference.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.AssemblyInfoInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.AssemblyInfo.cs
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.csproj.CoreCompileInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\netcoreapp3.1\ContaBancaria_Exception.genruntimeconfig.cache
